@@ -14,7 +14,7 @@ Será um programa que irá comparar o valor de um mesmo produto de todas as loja
 Tecnlogia Ultilizada:
 Linguagem de programção JAVA(ECLIPSE) e BANCO DE DADOS (SQL MICROSOFT)
 
-
+Diagramas:
 UML:https://app.lucidchart.com/documents/edit/b636b57c-7f10-4ee3-a238-e1d9871ba51d/0_0
 
 Analise de Requisitos:https://app.lucidchart.com/documents/edit/dbd0b060-1c09-45c9-ae9a-4c9d466eb2ec/0_0?beaconFlowId=71C6D3FCF8F8354F
